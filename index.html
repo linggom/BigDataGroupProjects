@@ -26,7 +26,7 @@ var svg = d3.select("body").append("svg")
     .attr("height", diameter)
     .attr("class", "bubble");
 
-d3.json("https://raw.githubusercontent.com/linggom/BigDataGroupProjects/master/flare.json?", function(error, root) {
+d3.json("https://raw.githubusercontent.com/linggom/BigDataGroupProjects/master/word_jkw_score.json?", function(error, root) {
   if (error) throw error;
 
   var node = svg.selectAll(".node")
