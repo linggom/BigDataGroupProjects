@@ -26,7 +26,7 @@ var svg = d3.select("body").append("svg")
     .attr("height", diameter)
     .attr("class", "bubble");
 
-d3.json("https://raw.githubusercontent.com/linggom/BigDataGroupProjects/master/word_jkw_score.json?qwe123", function(error, root) {
+d3.json("https://raw.githubusercontent.com/linggom/BigDataGroupProjects/master/word_jkw_score.json?asdasds", function(error, root) {
   if (error) throw error;
 
   var node = svg.selectAll(".node")
@@ -37,7 +37,7 @@ d3.json("https://raw.githubusercontent.com/linggom/BigDataGroupProjects/master/w
       .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; });
 
   node.append("title")
-      .text(function(d) { return d.className + ": " + format(d.value); });
+      .text(function(d) { return d.className + ": " + format(parseFloat(d.value)); });
 
   node.append("circle")
       .attr("r", function(d) { return d.r; })
