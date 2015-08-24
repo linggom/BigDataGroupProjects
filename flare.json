@@ -27,7 +27,7 @@
     {"name": "Transition", "size": 9201},
     {"name": "Transitioner", "size": 19975},
     {"name": "TransitionEvent", "size": 1116},
-    {"name": "Tween", "size": 6006}
+    {"name": "Tween", "size": 6006},
     {"name": "AxisLayout", "size": 6725},
     {"name": "BundledEdgeRouter", "size": 3727},
     {"name": "CircleLayout", "size": 9317},
