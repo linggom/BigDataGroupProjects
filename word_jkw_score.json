@@ -1,50 +1,54 @@
-{"": "0", "count": "838648", "word": "jokowi", "avg_score": "0.167054678354"}
-{"": "1", "count": "234895", "word": "jk", "avg_score": "0.289879055668"}
-{"": "2", "count": "219203", "word": "prabowo", "avg_score": "0.0711926789662"}
-{"": "3", "count": "111472", "word": "debat", "avg_score": "0.122190840386"}
-{"": "4", "count": "101633", "word": "tidak", "avg_score": "0.0814775257782"}
-{"": "5", "count": "87454", "word": "capres", "avg_score": "0.152916964512"}
-{"": "6", "count": "67105", "word": "hatta", "avg_score": "0.0553350276332"}
-{"": "7", "count": "66785", "word": "pilih", "avg_score": "0.509994036507"}
-{"": "8", "count": "65347", "word": "jokowi_do2", "avg_score": "0.306763485053"}
-{"": "9", "count": "49931", "word": "presiden", "avg_score": "0.18569441759"}
-{"": "10", "count": "44566", "word": "pemimpin", "avg_score": "0.74176845516"}
-{"": "11", "count": "39422", "word": "anda", "avg_score": "0.668074854973"}
-{"": "12", "count": "38932", "word": "dukung", "avg_score": "0.131453551593"}
-{"": "13", "count": "37165", "word": "indonesia", "avg_score": "0.182190415153"}
-{"": "14", "count": "36436", "word": "debatcapres", "avg_score": "0.0781635413324"}
-{"": "15", "count": "35678", "word": "pengalaman", "avg_score": "0.948580228568"}
-{"": "16", "count": "34822", "word": "rakyat", "avg_score": "0.0973473117131"}
-{"": "17", "count": "34717", "word": "ikut", "avg_score": "0.824574555168"}
-{"": "18", "count": "33598", "word": "doa", "avg_score": "0.274325609193"}
-{"": "19", "count": "33347", "word": "dipercaya", "avg_score": "0.990001399384"}
-{"": "20", "count": "33328", "word": "presidennomor2", "avg_score": "0.205434915213"}
-{"": "21", "count": "33148", "word": "memenangkan", "avg_score": "0.982451642739"}
-{"": "22", "count": "33017", "word": "kertas", "avg_score": "0.28607379039"}
-{"": "23", "count": "32755", "word": "dennyja_world", "avg_score": "0.998381926423"}
-{"": "24", "count": "32683", "word": "denny", "avg_score": "0.916421616313"}
-{"": "25", "count": "30920", "word": "triomacan2000", "avg_score": "-0.085344888078"}
-{"": "26", "count": "28603", "word": "jas", "avg_score": "0.265105076223"}
-{"": "27", "count": "26484", "word": "bilang", "avg_score": "0.0589515719874"}
-{"": "28", "count": "23731", "word": "2", "avg_score": "0.148424883763"}
-{"": "29", "count": "23667", "word": "orang", "avg_score": "0.0215461735058"}
-{"": "30", "count": "23069", "word": "jakarta", "avg_score": "0.177165567699"}
-{"": "31", "count": "22997", "word": "ernestprakasa", "avg_score": "0.162354510009"}
-{"": "32", "count": "21470", "word": "soal", "avg_score": "0.128131647765"}
-{"": "33", "count": "20779", "word": "1", "avg_score": "0.0896403835858"}
-{"": "34", "count": "19125", "word": "kalla", "avg_score": "0.170066399209"}
-{"": "35", "count": "18847", "word": "bicara", "avg_score": "0.112036405006"}
-{"": "36", "count": "18015", "word": "cawapres", "avg_score": "0.131031467299"}
-{"": "37", "count": "17839", "word": "partai", "avg_score": "0.175710435482"}
-{"": "38", "count": "17268", "word": "malam", "avg_score": "0.147077585313"}
-{"": "39", "count": "17171", "word": "demokrasi", "avg_score": "0.257120074289"}
-{"": "40", "count": "16510", "word": "detikcom", "avg_score": "0.135321573619"}
-{"": "41", "count": "16159", "word": "calon", "avg_score": "0.0838371672889"}
-{"": "42", "count": "14883", "word": "vs", "avg_score": "0.149630853994"}
-{"": "43", "count": "14870", "word": "sekali", "avg_score": "0.0944093458358"}
-{"": "44", "count": "14770", "word": "pakai", "avg_score": "0.0698406752572"}
-{"": "45", "count": "14705", "word": "jelas", "avg_score": "-0.438386291895"}
-{"": "46", "count": "14332", "word": "ibunda", "avg_score": "0.653862126246"}
-{"": "47", "count": "13956", "word": "kelihatan", "avg_score": "-0.0291401427469"}
-{"": "48", "count": "13927", "word": "liat", "avg_score": "0.196017038114"}
-{"": "49", "count": "13354", "word": "solo", "avg_score": "0.398268065044"}
+{
+	"name": "flare",
+	"children": [
+		{"word": "jk", "avg_score": "0.2898790557"},
+		{"word": "prabowo", "avg_score": "0.071192679"},
+		{"word": "debat", "avg_score": "0.1221908404"},
+		{"word": "tidak", "avg_score": "0.0814775258"},
+		{"word": "capres", "avg_score": "0.1529169645"},
+		{"word": "hatta", "avg_score": "0.0553350276"},
+		{"word": "pilih", "avg_score": "0.5099940365"},
+		{"word": "jokowi_do2", "avg_score": "0.3067634851"},
+		{"word": "presiden", "avg_score": "0.1856944176"},
+		{"word": "pemimpin", "avg_score": "0.7417684552"},
+		{"word": "anda", "avg_score": "0.668074855"},
+		{"word": "dukung", "avg_score": "0.1314535516"},
+		{"word": "indonesia", "avg_score": "0.1821904152"},
+		{"word": "debatcapres", "avg_score": "0.0781635413"},
+		{"word": "pengalaman", "avg_score": "0.9485802286"},
+		{"word": "rakyat", "avg_score": "0.0973473117"},
+		{"word": "ikut", "avg_score": "0.8245745552"},
+		{"word": "doa", "avg_score": "0.2743256092"},
+		{"word": "dipercaya", "avg_score": "0.9900013994"},
+		{"word": "presidennomor2", "avg_score": "0.2054349152"},
+		{"word": "memenangkan", "avg_score": "0.9824516427"},
+		{"word": "kertas", "avg_score": "0.2860737904"},
+		{"word": "dennyja_world", "avg_score": "0.9983819264"},
+		{"word": "denny", "avg_score": "0.9164216163"},
+		{"word": "triomacan2000", "avg_score": "-0.0853448881"},
+		{"word": "jas", "avg_score": "0.2651050762"},
+		{"word": "bilang", "avg_score": "0.058951572"},
+		{"word": "2", "avg_score": "0.1484248838"},
+		{"word": "orang", "avg_score": "0.0215461735"},
+		{"word": "jakarta", "avg_score": "0.1771655677"},
+		{"word": "ernestprakasa", "avg_score": "0.16235451"},
+		{"word": "soal", "avg_score": "0.1281316478"},
+		{"word": "1", "avg_score": "0.0896403836"},
+		{"word": "kalla", "avg_score": "0.1700663992"},
+		{"word": "bicara", "avg_score": "0.112036405"},
+		{"word": "cawapres", "avg_score": "0.1310314673"},
+		{"word": "partai", "avg_score": "0.1757104355"},
+		{"word": "malam", "avg_score": "0.1470775853"},
+		{"word": "demokrasi", "avg_score": "0.2571200743"},
+		{"word": "detikcom", "avg_score": "0.1353215736"},
+		{"word": "calon", "avg_score": "0.0838371673"},
+		{"word": "vs", "avg_score": "0.149630854"},
+		{"word": "sekali", "avg_score": "0.0944093458"},
+		{"word": "pakai", "avg_score": "0.0698406753"},
+		{"word": "jelas", "avg_score": "-0.4383862919"},
+		{"word": "ibunda", "avg_score": "0.6538621262"},
+		{"word": "kelihatan", "avg_score": "-0.0291401427"},
+		{"word": "liat", "avg_score": "0.1960170381"},
+		{"word": "solo", "avg_score": "0.398268065"}
+	]
+}

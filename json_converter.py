@@ -8,6 +8,6 @@ jsonfile = open('word_jkw_score.json', 'w')
 
 #fieldnames = ("word","count","avg_score")
 reader = csv.DictReader( csvfile)
-for row in reader:
+for row in reader:	
     json.dump(row, jsonfile)
-    jsonfile.write('\n')
+    jsonfile.write(',\n')
