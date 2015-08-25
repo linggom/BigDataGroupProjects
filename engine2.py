@@ -43,7 +43,7 @@ for i in range(0,len(common_word)):
 avg_score = DataFrame(avg_score)
 
 common_word2 = common_word.join(avg_score)
-common_word2.columns = ['word','count','avg_score']
+common_word2.columns = ['word','size','avg_score']
 
 #write to csv file
 common_word2.to_csv("word_jkw_score.csv")
